@@ -26,6 +26,16 @@ func main() {
 }
 ```
 
+## The Java Programming Language
+
+```Java
+public class Hello {
+    public static void main(String... args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
 ## The Kotlin Programming Language
 
 ```Kotlin
